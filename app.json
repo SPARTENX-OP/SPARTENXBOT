@@ -1,7 +1,7 @@
 {
-  "name": "🔱𝖀𝖑𝖙𝖗𝖔𝖓𝕭𝖔𝖙🔱",
+  "name": "🔱𝕾𝖕𝖆𝖗𝖙𝖆𝖓𝕭𝖔𝖙🔱",
   "description": "One of the best Userbot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://te.legra.ph/file/cdba07a2e06282e349a18.jpg",
+  "logo": "https://telegra.ph/file/4055d9d4065beec4f5fae.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGENDXTHANOS/ULTRONBOT/",
+  "repository": "https://github.com/SPARTENX-OP/SPARTENXBOT/",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
