@@ -62,7 +62,7 @@ _starter () {
     echo "╭━━━━━━━━━━━━━━━➣"
     echo "║┣⪼𝕷𝖔𝖆𝖉𝖎𝖓𝖌. 𝕾𝖕𝖆𝖗𝖙𝖆𝖓𝕭𝖔𝖙 𝕻𝖔𝖜𝖊𝖗𝕱𝖚𝖑𝖑 𝕽𝖔𝕭𝖔𝖔𝖙"
     echo "╰━━━━━━━━━━━━━━━➣"
-    python3 -m SpartanBot
+    python3 -m UltronBot
 }
 
 _starter
