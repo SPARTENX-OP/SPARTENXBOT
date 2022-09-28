@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>Ͳհҽ Ϛքąɾէąղβօէ 🇮🇳</b>
+  <b>Ͳհҽ ԱӀէɾօղβօէ 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/4055d9d4065beec4f5fae.jpg" alt="LEGENDXTHANOS">
+  <img src="https://telegra.ph/file/82b8456afa0fbdc81ae3d.jpg" alt="LEGENDXTHANOS">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ Ϛքąɾէąղβօէ ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ ԱӀէɾօղβօէ ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -58,17 +58,17 @@
 - Every mandatory variables are listed [Here](#Variables).
 - Fork & Star this repo.
 - Some commands might not work properly on railway.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@SpartanBot_xD](https://t.me/SpartanBot_xD). Type `#railway` to get deploy guide.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@UltronBot_xD](https://t.me/hellbot_chat). Type `#railway` to get deploy guide.
 
 ------
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/SPARTENX-OP/SPARTENXBOT.git`
+`git clone https://github.com/LEGENDXTHANOS/ULTRONBOT.git`
 - Open Cloned Folder.
 
-`cd SPARTANUSERBOT`
+`cd ULTRONUSERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -77,11 +77,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate SPARTANBOT SESSION.
+- Generate ULTRONBOT SESSION.
 
 `python ultron_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Spartanẞø† By
+- Finally Start Ultronẞø† By
 
 `bash start.sh`
 
@@ -90,7 +90,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `SPARTANBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `ULTRONBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
@@ -107,18 +107,18 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your UltronBot Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-
+- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@LEGEND-LX/ULTRONBOT?v=1)
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/SPARTENX-OP/SPARTENXBOT/master/ultron_string.py && python3 ultron_string.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/LEGENDXTHANOS/ULTRONBOT/master/ultron_string.py && python3 ultron_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your SpartanBot Session Will be saved in your Telegram Saved Message.
+- Your UltronBot Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
@@ -135,7 +135,7 @@
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-<h4 align="center">Copyright (C) 2022 <a href="hhttps://github.com/SPARTENX-OP">SPARTENX-OP</a></h4>
+<h4 align="center">Copyright (C) 2022 <a href="https://github.com/LEGENDXTHANOS">LEGENDXTHANOS</a></h4>
 
 Project [UltronBot](https://github.com/LEGENDXTHANOS/ULTRONBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

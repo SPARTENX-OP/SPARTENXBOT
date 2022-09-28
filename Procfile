@@ -1,1 +1,1 @@
-worker: bash SPARTAN
+worker: bash ULTRON
