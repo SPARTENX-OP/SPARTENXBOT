@@ -152,6 +152,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
-- 💖 Team LEGENDXTHANOS
+- 💖 Team [LEGENDXTHANOS](github.com/LEGEND-LX) & [LEGEND-LX](GITHUB.COM/LEGENDXTHANOS)
 
 ------
