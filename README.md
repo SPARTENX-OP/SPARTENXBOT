@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>Ͳհҽ ԱӀէɾօղβօէ 🇮🇳</b>
+  <b>Ͳհҽ Spสгτสnβօէ 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/82b8456afa0fbdc81ae3d.jpg" alt="LEGENDXTHANOS">
+  <img src="https://telegra.ph/file/4055d9d4065beec4f5fae.jpg" alt="LEGENDXTHANOS">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ ԱӀէɾօղβօէ ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ Ͳհҽ Spสгτสnβօէ ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -26,8 +26,8 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/UltronBot_xD)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Ultron_Update)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/SpartanBot_xD)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/SpartanBot_xD)
 
 ------
 ## Deploy 🚀
@@ -58,17 +58,17 @@
 - Every mandatory variables are listed [Here](#Variables).
 - Fork & Star this repo.
 - Some commands might not work properly on railway.
-- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@UltronBot_xD](https://t.me/hellbot_chat). Type `#railway` to get deploy guide.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@SpartanBot_xD](https://t.me/SpartanBot_xD). Type `#railway` to get deploy guide.
 
 ------
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/LEGENDXTHANOS/ULTRONBOT.git`
+`git clone https://github.com/SPARTENX-OP/SPARTENXBOT.git`
 - Open Cloned Folder.
 
-`cd ULTRONUSERBOT`
+`cd SPARTANSERBOT`
 - Create VirtualEnv.
 
 `virtualenv -p /usr/bin/python3 venv`
@@ -79,7 +79,7 @@
 `pip install -U -r requirements.txt`
 - Generate ULTRONBOT SESSION.
 
-`python ultron_string.py`
+`python spartan_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
 - Finally Start Ultronẞø† By
 
@@ -107,18 +107,18 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your UltronBot Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@LEGEND-LX/ULTRONBOT?v=1)
+- [![Replit](https://telegra.ph/file/d280d3e6190b0b0909ff8.jpg)](https://replit.com/@LEGEND-LX/ULTRONBOT?v=1)
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/LEGENDXTHANOS/ULTRONBOT/master/ultron_string.py && python3 ultron_string.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/SPARTENX-OP/SPARTENXBOT/master/ultron_string.py && python3 spartan_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your UltronBot Session Will be saved in your Telegram Saved Message.
+- Your SpartanBot Session Will be saved in your Telegram Saved Message.
 
 ------
 ## Disclaimer
@@ -137,7 +137,7 @@
 
 <h4 align="center">Copyright (C) 2022 <a href="https://github.com/LEGENDXTHANOS">LEGENDXTHANOS</a></h4>
 
-Project [UltronBot](https://github.com/LEGENDXTHANOS/ULTRONBOT) is free software: you can redistribute it and/or modify
+Project [SpartanBot](https://github.com/SPARTENX-OP/SPARTENXBOT) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
