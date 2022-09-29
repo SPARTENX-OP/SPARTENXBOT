@@ -96,7 +96,7 @@
 - `DATABASE_URL`  =  A Postgresql database url.
 
 ------
-## UltronBot Session
+## SpartanBot Session
 
 ### Repl
 - Open Repl Link.
